@@ -21,4 +21,11 @@
         flex-direction: column;
         gap: 10px;
     }
+    .aboutus__img img{
+        width: 400px;
+    }
+    .aboutus__wrap-desc{
+        max-width: 400px;
+        width: 100%;
+    }
 }
